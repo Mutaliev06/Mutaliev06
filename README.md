@@ -9,7 +9,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerim-in&theme=outrun&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutaliev06&theme=outrun&show_icons=true)
 
 <!--
 **Mutaliev06/Mutaliev06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
