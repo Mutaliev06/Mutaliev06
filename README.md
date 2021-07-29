@@ -2,9 +2,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mutaliev06 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Mutaliev06 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mutaliev06 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/vk.svg" />][vk]
+[<img align="left" alt="Mutaliev06 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Mutaliev06 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mutaliev06 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 
