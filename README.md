@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
 <img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
-<img src="https://img.shields.io/badge/-MONGOOSE-090909?style=for-the-badge&logo=mongoos&logoColor=47C5FB"/>
 <img src="https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=write"/>
 <img src="https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=write"/>
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
