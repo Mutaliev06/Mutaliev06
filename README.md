@@ -9,13 +9,11 @@
 <img src="https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mySql&logoColor=00ffff"/>
 <img src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=gree"/>
 <img src="https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/-ReduxToolkit-090909?style=for-the-badge&logo=Redux&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
-<img src="https://img.shields.io/badge/-materialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
-<img src="https://img.shields.io/badge/-mongoos-090909?style=for-the-badge&logo=mongoos&logoColor=47C5FB"/>
-<img src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=write"/>
+<img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
+<img src="https://img.shields.io/badge/-MONGOOSE-090909?style=for-the-badge&logo=mongoos&logoColor=47C5FB"/>
+<img src="https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=write"/>
 <img src="https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=write"/>
-<img src="https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=webstorm&logoColor=blue"/>
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
 
 <!--
