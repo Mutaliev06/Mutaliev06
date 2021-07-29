@@ -1,4 +1,10 @@
-### Hi there 👋
+### Всем привет 👋 Меня зовут Мухаммед
+
+### Я - Fullstack разработчик.
+
+💪 - люблю писать чистый код
+
+<img src="https://img.shields.io/badge/material-ui-black?style=flat-square&logo=Material-ui" alt="materialUI"/>
 
 <!--
 **Mutaliev06/Mutaliev06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
