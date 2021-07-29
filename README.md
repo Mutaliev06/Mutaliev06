@@ -4,16 +4,14 @@
 
 💪 - люблю писать чистый код
 
-<img src="
 
-<img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=blue)
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=gree)
+<img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow" alt="js"/>
+<img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=gree" alt="nodejs"/>
+<img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=00FFFF"/>
 ![Express](https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express&logoColor=green)
 ![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mySql&logoColor=00ffff)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=gree)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=00FFFF)
+
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=8A2BE2)
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-090909?style=for-the-badge&logo=Redux&logoColor=8A2BE2)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read)
