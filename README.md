@@ -4,7 +4,7 @@
 
 [<img align="left" alt="Mutaliev06 | Telegram" width="30px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />][telegram]
 [<img align="left" alt="Mutaliev06 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Mutaliev06 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mutaliev06 | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Mutaliev06 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 
