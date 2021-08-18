@@ -20,12 +20,12 @@
 <img src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=gree"/>
 <img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
-<img src="https://img.shields.io/badge/-GITHUB_PAGES-090909?style=for-the-badge&logo=git&logoColor=write"/>
 <img src="https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=write"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=000000&logo=Sass&logoColor=CC6699&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb&color=000000&logo=Airbnb&logoColor=FF5A5F&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=000000&logo=ESLint&logoColor=4B32C3&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHubPages&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=000000&logo=Nodemon&logoColor=76D04B&label="/>
