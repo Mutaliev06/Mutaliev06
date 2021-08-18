@@ -17,9 +17,9 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=000000&logo=ESLint&logoColor=4B32C3&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=000000&logo=Nodemon&logoColor=222222&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=222222&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label="/>
 
 <br />
 <details>
