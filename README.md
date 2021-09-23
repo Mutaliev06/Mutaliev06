@@ -34,7 +34,7 @@
 
 <br />
 
-https://www.codewars.com/users/Mutaliev06/badges/large
+![CodeWars](https://www.codewars.com/users/Mutaliev06/badges/large)
 
 <br/>
 <details>
