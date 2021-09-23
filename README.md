@@ -33,6 +33,10 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
 
 <br />
+
+https://www.codewars.com/users/Mutaliev06/badges/large
+
+<br/>
 <details>
   <summary>:zap: Statistics:</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mutaliev06&show_icons=true&theme=dark"/>
